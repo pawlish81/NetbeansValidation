@@ -1,1 +1,3 @@
-examples of Simple Validation API in Netbeans Platform
+<h2>Examples of Simple Validation API in Netbeans Platform with comments.<h2>
+
+<h3>Simple form with one validation panel<h3>
