@@ -37,7 +37,7 @@ public final class PersonCustomValidatorTopComponent extends TopComponent {
 
         nameTextField.setName("Name");
         surnameTextField.setName("Surname");
-
+        //test
         //we have one validation panel
         ValidationGroup validationGroup = validationPanel.getValidationGroup();
 
